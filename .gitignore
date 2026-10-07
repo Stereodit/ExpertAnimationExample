@@ -1,0 +1,23 @@
+# IDE and local configuration
+*.iml
+.idea/
+local.properties
+.DS_Store
+
+# Gradle and Kotlin caches
+.gradle/
+.kotlin/
+
+# Build outputs
+build/
+**/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# Local signing material
+*.jks
+*.keystore
+keystore.properties
